@@ -1,3 +1,15 @@
 ветка demo отличается от master строчкой в readme
 master - Create release branch with human (master) in boots (boots branch) and hat (hat branch) with nice buttons on his jacket (buttons branch)
 demo - Create release branch with human (master) in boots (boots branch) and hat (hat branch).
+
+11 коммитов вместе с этим
+init
+heat added
+boots
+README added
+dots
+fix readme
+2 мерджа в ветку boots_buttons
+мердж в ветку мастер
+hometask 1
+hometask 2
